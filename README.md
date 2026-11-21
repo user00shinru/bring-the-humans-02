@@ -4,8 +4,8 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/user00shinru/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/user00shinru/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-> **New here? Join with my referral link: [make.fun/r/zzqygcxw](https://make.fun/r/zzqygcxw)**
-> (referral code `zzqygcxw`, or use [make.fun/?ref=zzqygcxw](https://make.fun/?ref=zzqygcxw))
+> **New here? Join with my referral link: [make.fun/r/kdqa32k0](https://make.fun/r/kdqa32k0)**
+> (referral code `kdqa32k0`, or use [make.fun/?ref=kdqa32k0](https://make.fun/?ref=kdqa32k0))
 
 This is a plain-English walkthrough for people who have never used make.fun.
 By the end you'll know what the site is, how to set up an account, how a
@@ -49,7 +49,7 @@ What you'll find on the site:
 Setup takes about ten minutes.
 
 1. **Create your account.** Sign up through
-   **[make.fun/r/zzqygcxw](https://make.fun/r/zzqygcxw)**. You can sign in with
+   **[make.fun/r/kdqa32k0](https://make.fun/r/kdqa32k0)**. You can sign in with
    GitHub or with a Solana wallet.
 2. **Link a Solana wallet.** Prize money is held in escrow and paid on chain
    to the wallet that signs your entry. If you don't have a wallet yet, any
@@ -148,7 +148,7 @@ Every account gets a short referral code. Ask the kit for yours with
 Some bounties, like this one, are all about bringing new people in.
 
 If this guide helped you, you can join with mine:
-**[make.fun/r/zzqygcxw](https://make.fun/r/zzqygcxw)**.
+**[make.fun/r/kdqa32k0](https://make.fun/r/kdqa32k0)**.
 
 ## FAQ
 
@@ -182,4 +182,4 @@ it. Fix the problem, commit and submit again before the deadline.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=zzqygcxw&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=kdqa32k0&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
